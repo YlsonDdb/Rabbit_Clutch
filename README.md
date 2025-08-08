@@ -5,7 +5,7 @@ Each component has been designed to be 3D-printable with minimal support require
 
 <img src=https://github.com/user-attachments/assets/5cbf83aa-bdf6-48ff-adf2-bdb530c7bf2f alt="Gripper Image" width="500"/>
 
-### Underneath is a showcase of assembly simulation:
+### Showcase of assembly simulation:
 
 https://github.com/user-attachments/assets/386885c9-cc53-400e-b2df-798bb01b33fb
 
