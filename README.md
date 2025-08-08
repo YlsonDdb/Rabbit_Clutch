@@ -1,5 +1,6 @@
 # Rabbit_Clutcher
-Welcome to an easily assembled parallel gripper. It features a DM-4310-2EC 12V brushless planetary gear motor and a linear rail with two sliders to perform the opening and closing actions. Each component has been designed to be 3D-printable with minimal support required, ensuring a smooth surface finish and reducing the need for post-print treatment. The gripper's head is swappable, offering greater flexibility for adapting to different use cases.
+Welcome to an easily assembled parallel gripper. It features a DM-4310-2EC 12V brushless planetary gear motor and a linear rail with two sliders to perform the opening and closing actions. 
+Each component has been designed to be 3D-printable with minimal support required, ensuring a smooth surface finish and reducing the need for post-print treatment. The gripper's head is swappable, offering greater flexibility for adapting to different use cases.
 
 <img src=https://github.com/user-attachments/assets/5cbf83aa-bdf6-48ff-adf2-bdb530c7bf2f alt="Gripper Image" width="500"/>
 
