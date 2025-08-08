@@ -9,6 +9,10 @@ Each component has been designed to be 3D-printable with minimal support require
 
 https://github.com/user-attachments/assets/386885c9-cc53-400e-b2df-798bb01b33fb
 
+### Sepcs Lengths, Widths, Operating Range in mm
+
+<img width="1920" height="1752" alt="Specs" src="https://github.com/user-attachments/assets/bc32895d-d322-4887-bc86-96e100d00e01" />
+
 ### Exploded View
 
 
