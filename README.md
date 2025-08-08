@@ -4,3 +4,10 @@ Welcome to an easily assembled parallel gripper. It features a DM-4310-2EC 12V b
 ### Underneath is a showcase of assembly simulation:
 https://github.com/user-attachments/assets/386885c9-cc53-400e-b2df-798bb01b33fb
 
+### Bill Of Materials
+...
+///
+
+### Demos are available here
+https://github.com/tianrking/Gripper_Controller
+
